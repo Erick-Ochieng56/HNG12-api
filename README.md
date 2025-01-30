@@ -27,7 +27,7 @@ This is a simple public API built using Django and Django REST Framework. The AP
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Erick-Ochieng56/HNG12-api
 cd your-repo
 ```
 
